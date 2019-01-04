@@ -24,3 +24,13 @@ jest porównanie wpływu przybliżenia początkowego ψ(x) na kształt uzyskanej
 * Wykreślić ostateczny profil potencjału ψ(x) oraz lokalnej gęstości nieskompensowanego
 ładunku domieszek ρ(x). Na wykresie ρ(x) zaznaczyć granice warstwy zaporowej obliczone
 analitycznie przy założeniu zupełnego zubożenia. Obliczenia zamieścić w sprawozdaniu.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwolodzk/MOBI-mikroelektronika/master/img/dioda.png"> <br>
+  Dioda analizowana w zadaniu 3(a)
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwolodzk/MOBI-mikroelektronika/master/img/pasma.png"> <br>
+  Struktura pasmowa diody
+</p>
